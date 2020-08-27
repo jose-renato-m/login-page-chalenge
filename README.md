@@ -26,7 +26,7 @@ This challenge has been made using the following technologies:
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/jose-renato-m/login-page-chalenge.git
+$ git clone https://github.com/jose-renato-m/login-page-challenge.git
 
 # Install dependencies
 $ yarn
